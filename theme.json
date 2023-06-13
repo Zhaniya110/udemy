@@ -153,7 +153,7 @@
         },
         "typography": {
             "fontFamilies": [
-               {"fontFamily": "Rubik, sans-serif","slug": "u-rubik","name": "Udemy Rubik"}
+               {"fontFamily": "Gilroy, sans-serif","slug": "u-gilroy","name": "Udemy Gilroy"}
             ]
         }
        
