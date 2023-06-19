@@ -3,6 +3,8 @@
     "version": 2,
     
     "settings": {
+        "appearanceTools": true,
+
         "color": {
         
         "customDuotone": true,
